@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.bg5 {
+  display: flex;
+  flex-direction: column;
+  border: solid 1px #171f46;
+  border-radius: 10px;
+  padding: 5px;
+  width: 300px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 20px;
+}
+
+.bg6 {
+  display: flex;
+  justify-content: space-between;
+  width: 280px;
+  align-items: center;
+}
+
+.title-para {
+  color: #171f46;
+  font-size: 20px;
+  font-family: roboto;
+  font-weight: bold;
+}
+
+.bg7 {
+  display: flex;
+  flex-direction: column;
+}
+
+.date-para {
+  color: #b5b7c4;
+}
+
+.btn2 {
+  border: none;
+  background-color: transparent;
+}

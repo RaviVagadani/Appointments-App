@@ -1,0 +1,104 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #9796f0, #fbc7d4);
+  padding: 30px;
+}
+
+.bg1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 30px;
+  padding-left: 60px;
+}
+
+.bg2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.heading {
+  color: #171f46;
+  font-family: roboto;
+  margin-bottom: 50px;
+}
+
+.title {
+  color: #b5b7c4;
+  font-family: roboto;
+}
+
+.input-item {
+  width: 500px;
+  height: 30px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.date {
+  color: #b5b7c4;
+  font-family: roboto;
+}
+
+.image {
+  width: 100%;
+  height: 250px;
+}
+
+.btn {
+  background-color: #8b5cf6;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  width: 60px;
+  height: 30px;
+  font-family: roboto;
+}
+
+.hr {
+  color: #b5b7c4;
+  width: 100%;
+  border: solid 1px;
+}
+
+.btn1 {
+  background-color: transparent;
+  color: #9897f0;
+  font-size: 15px;
+  border: solid 1px #9897f0;
+  border-radius: 20px;
+  width: 80px;
+  height: 25px;
+  font-family: roboto;
+  margin-top: 31px;
+}
+
+.btn4 {
+  background-color: #9897f0;
+  color: #ffffff;
+  font-size: 15px;
+  border: solid 1px #9897f0;
+  border-radius: 20px;
+  width: 80px;
+  height: 25px;
+  font-family: roboto;
+  margin-top: 31px;
+}
+
+.bg3 {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.bg4 {
+  list-style-type: none;
+  display: flex;
+}
